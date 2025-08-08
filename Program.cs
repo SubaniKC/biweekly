@@ -14,8 +14,7 @@ namespace Ex4T3
             Id = id;
             Name = name;
             Price = price;
-        }
-    }
+    
 
     public class Customer
     {
@@ -72,3 +71,4 @@ namespace Ex4T3
         }
     }
 }
+
