@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\SydneyHotel\SydneyHotel\bin\Debug\net8.0\SydneyHotel.exe
+C:\Users\Asus\source\repos\SydneyHotel\SydneyHotel\bin\Debug\net8.0\SydneyHotel.deps.json
+C:\Users\Asus\source\repos\SydneyHotel\SydneyHotel\bin\Debug\net8.0\SydneyHotel.runtimeconfig.json
+C:\Users\Asus\source\repos\SydneyHotel\SydneyHotel\bin\Debug\net8.0\SydneyHotel.dll
+C:\Users\Asus\source\repos\SydneyHotel\SydneyHotel\bin\Debug\net8.0\SydneyHotel.pdb
+C:\Users\Asus\source\repos\SydneyHotel\SydneyHotel\obj\Debug\net8.0\SydneyHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\SydneyHotel\SydneyHotel\obj\Debug\net8.0\SydneyHotel.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\SydneyHotel\SydneyHotel\obj\Debug\net8.0\SydneyHotel.AssemblyInfo.cs
+C:\Users\Asus\source\repos\SydneyHotel\SydneyHotel\obj\Debug\net8.0\SydneyHotel.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SydneyHotel\SydneyHotel\obj\Debug\net8.0\SydneyHotel.dll
+C:\Users\Asus\source\repos\SydneyHotel\SydneyHotel\obj\Debug\net8.0\refint\SydneyHotel.dll
+C:\Users\Asus\source\repos\SydneyHotel\SydneyHotel\obj\Debug\net8.0\SydneyHotel.pdb
+C:\Users\Asus\source\repos\SydneyHotel\SydneyHotel\obj\Debug\net8.0\SydneyHotel.genruntimeconfig.cache
+C:\Users\Asus\source\repos\SydneyHotel\SydneyHotel\obj\Debug\net8.0\ref\SydneyHotel.dll
