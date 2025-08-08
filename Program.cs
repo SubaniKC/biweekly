@@ -11,10 +11,7 @@ namespace Ex4T3
 
         public Product(int id, string name, double price)
         {
-            Id = id;
-            Name = name;
-            Price = price;
-    
+          id
 
     public class Customer
     {
@@ -71,4 +68,5 @@ namespace Ex4T3
         }
     }
 }
+
 
